@@ -1,0 +1,13 @@
+{
+    "EXAMPLE_MAIN_TYPE": {
+        "SPECIFIC MODEL": {
+            ""
+        }
+    },
+    "rpi_camera": {
+        "v1.2": {}
+    },
+    "FLIR": {
+        "Blackfly_S_USB3": {}
+    }
+}
